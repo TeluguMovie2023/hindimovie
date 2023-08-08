@@ -1,0 +1,375 @@
+{
+  "HindiMovie" : {
+	"Movie":[
+		{
+			"id": 1,
+			"Video_Id": "DOO9WZiN4n0",
+			"Movie_name": "Sharato Lagu",
+			"Description": "Sharato Lagu is a 2018 Indian Gujarati-language comedy drama film starring Malhar Thakar,Deeksha Joshi,Prashant Barot, Hemant Jha, Chhaya Vora and Alpana Buch.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71tFAphY-uL._RI_.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "yMqnmPbWi1s",
+			"Movie_name": "Gujjubhai The Great",
+			"Description": "Gujjubhai The Great is a 2020 Gujarati comedy film directed by Ishaan Randeria. It is presented by Nakshatra Entertainment and produced by Devendra N. Patel in association with Siddharth Randeria Productions.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/51/Gujjubhai_The_Great_Poster.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "OhNuXFn9Tu0",
+			"Movie_name": "Love Ni Bhavai",
+			"Description": "Love Ni Bhavai is a 2017 Gujarati romantic drama film directed by Saandeep Patel and produced by Aarti Patel. The background score and soundtrack was composed by Sachin–Jigar, with lyrics from Niren Bhatt.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/ff/Love_Ni_Bhavai_poster.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "jar8cDhiw-M",
+			"Movie_name": "Tamburo",
+			"Description": "Tamburo is an Indian Gujarati comedy film directed by Shailesh Shankar. It stars Bollywood veteran actor Manoj Joshi, and Pratik Gandhi, with Bharat Chawda.",
+			"Movieimg": "https://timesofindia.indiatimes.com/photo/61224037.cms"
+		},
+		{
+			"id": 5,
+			"Video_Id": "rJHsafM32Bk",
+			"Movie_name": "Chhello Divas",
+			"Description": "Chhello Divas – A New Beginning is a Gujarati coming of age comedy film, written and directed by Krishnadev Yagnik. The movie stars Malhar Thakar, Yash Soni, Mitra Gadhavi, Aarjav Trivedi, Rahul Raval, Janki Bodiwala, Kinjal Rajpriya, and Netri Trivedi.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTViN2VlN2QtYjc3Zi00M2EzLWIyNWItZDI5MTUwNmYyMWVkXkEyXkFqcGdeQXVyNjQzNTMxNDQ@._V1_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "EGhTPNrWP3Q",
+			"Movie_name": "Ventilator",
+			"Description": "Ventilator is a 2018 Indian Gujarati comedy-drama film directed by Umang Vyas, and produced by Falguni Patel and Lawrence D'Souza. It is an adaption of 2016 Marathi film Ventilator written and directed by Rajesh Mapuskar and produced by Priyanka Chopra.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTEzYWRjYjktYzg0ZC00NmIwLTg2ZjEtZjZmMmRkOGJmYjJhXkEyXkFqcGdeQXVyNTUyMTYwMDI@._V1_.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "CFdNaAJuwTY",
+			"Movie_name": "Passport",
+			"Description": "Anna, an American student loses in her passport in Ahmedabad and Kabir (Malhar Thakar), helps her find it.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmE1MDE1OWYtOTVlMS00Y2MxLWIyZTItYThmNDk3ZjU3NDA3XkEyXkFqcGdeQXVyMjI0NzIwNjc@._V1_.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "AVc9MsVDG-Q",
+			"Movie_name": "Gujjubhai Most Wanted",
+			"Description": "GujjuBhai - Most Wanted is a 2018 Indian Gujarati comedy film directed by Ishaan Randeria. This is the second film in Gujjubhai film series and sequel to Gujjubhai the Great (2015). It stars Siddharth Randeria and Jimit Trivedi in the lead roles.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/9/94/GujjuBhai_Most_Wanted_poster.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "WXdrVHhhnJg",
+			"Movie_name": "Pappa Tamne Nahi Samjaay",
+			"Description": "Pappa Tamne Nahi Samjaay is a 2017 Indian Gujarati-language comedy-drama film written and directed by Dharmesh Mehta, and produced by Alpesh Patel, Harsh Patel and Snehal Trivedi.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTNiNDYxY2EtZjYwOC00YTU4LTk2NjEtOTQ0MDM4MTdjYmFmXkEyXkFqcGdeQXVyNzg4Mzc3Njc@._V1_.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "nMAOJFbn0kI",
+			"Movie_name": "Reva",
+			"Description": "Reva: A Journey Within is a 2018 Gujarati adventure drama film starring Chetan Dhanani and Monal Gajjar produced by Brainbox Studios and Baroda Talkies. The film is based on Gujarati author Dhruv Bhatt's 1998 Gujarati novel Tatvamasi.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/a1/Reva_Poster_Full.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "KQo2QQw1KaY",
+			"Movie_name": "Karsandas Pay and Use",
+			"Description": "Karsandas Pay & Use is a 2017 Indian Gujarati-language romantic comedy film written and directed by Krishnadev Yagnik and produced by Nilay Chotai and Vaishal Shah. The film stars Mayur Chauhan, Deeksha Joshi and Hemang Shah in lead roles and was released on 19 May 2017.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjRhZmMzODgtMTEyOS00N2M1LWFiMGQtMWQyNGFhMzliNmRjXkEyXkFqcGdeQXVyNjA5MTkzNTg@._V1_.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "EkaX-Vd77Bw",
+			"Movie_name": "Mijaaj",
+			"Description": "Mijaaj is a 2018 Indian Gujarati action drama film directed by Tapan Vyas, written by Pravin Pandya and produced by Jitendra Pandya. It stars Malhar Thakar, Esha Kansara, Revanta Sarabhai, Abhinay Banker, Chhaya Vora, Jayesh More, Bhatt Bhushan, Andy von Eich & Kajal Pisal.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDgyOTllMWUtZWQ1ZC00YjUzLWE1YTktZWEwMWUzODNmYzE4XkEyXkFqcGdeQXVyODQ4MTIxNjI@._V1_.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "QmGbog0HANE",
+			"Movie_name": "Suryansh",
+			"Description": "A brave police officer trying to make society crime free.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjZiOTA5ZjMtZjY5MS00YjgzLTgyMGMtNGM1MDJhYjhiOTA0XkEyXkFqcGdeQXVyOTM2ODAxNjg@._V1_.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "QGeY9Y5zg2Q",
+			"Movie_name": "Vandha Villas",
+			"Description": "Fortunately or unfortunately Dhyanchand, Harinanrayan and Lakhudas are cursed by one of their ancestors that the coming six generations will have to marry two times and if they don't, they will take birth as monkeys in their next lives.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzE4ZGU3MzMtYWVhZC00MTIyLWEyODgtNmY3ZTcyYzUwNWM2XkEyXkFqcGdeQXVyNjA5MTkzNTg@._V1_.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "Ru3nlHbwf-s",
+			"Movie_name": "Chasani",
+			"Description": "Married for 25 years now, Ramnik has a picture-perfect life despite never experiencing true love. On the other hand, 25-year-old Rahul has just lost the love of his life.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWFlOWM0NGItZjljMy00NDZkLWE5N2UtMTUwYzc5ZThhYWFiXkEyXkFqcGdeQXVyODE4ODE1MDU@._V1_.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "ZSNi9ThAA_Q",
+			"Movie_name": "Duniyadari",
+			"Description": "Duniyadari is a 2017 Gujarati movie a remake of Marathi movie Duniyadari produced by Tajdar Amrohi and Riyaz Balooch and directed by Shital Shah. Duniyadari is a story of love, friendship, relationship and destiny based in the period of mid 70s.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzAwMWJkNmItNTI4ZS00MTMwLTlhN2ItMDMxMjg4OTYwYWJhL2ltYWdlXkEyXkFqcGdeQXVyNzA3NTE5MDY@._V1_.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "hK9DhPJD4nQ",
+			"Movie_name": "Luv Ni Love Storys",
+			"Description": "Luv Ni Love Storys is a 2020 Gujarati romantic comedy-drama film written and directed by Durgesh Tanna. The film is produced by Manish Andani and Karim Minsariya under the banner of Swissk Entertainment and DB Talkies.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/d0/Luv_Ni_Love_Storys.jpeg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "-y_lO028ChA",
+			"Movie_name": "Saheb",
+			"Description": "Saheb is a 2019 Gujarati film starring Malhar Thakar & Kinjal Rajpriya. The film is directed by Shailesh Prajapati and written by Paresh Vyas.The film was released on 8 February 2019.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzlmMTFiMTQtODc0NC00NTBhLThkY2QtZmRlMjJhYjQ2YTY2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "zCkfdN98EQ8",
+			"Movie_name": "Tuu To Gayo",
+			"Description": "Tuu to Gayo is upcoming Gujarati Movie Directed by Dhwani Gautam. It is a story of four friends and their story about marriage.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTY2NzQ1YTUtMmYwMS00YWEzLTk0YTMtMWJlNmNhODZjYWE0XkEyXkFqcGdeQXVyMjg3NTgzNTA@._V1_.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "rlgNNWyQesc",
+			"Movie_name": "PAHELO DIVAS",
+			"Description": "Pahelo Divas is a Gujarati movie starring Dilip Prakash and Aashika in prominent roles. It is a drama directed by Mahesh Babu with Pankaj Bhatt as musician, forming part of the crew.",
+			"Movieimg": "https://m.media-amazon.com/images/I/71ERdFEgIgL._RI_.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "I5_Di0lFams",
+			"Movie_name": "Gajab Thai Gayo!",
+			"Description": "Sheth Kapurchand Mangaldas Vidyalaya is one of the last existing Gujarati medium schools. Principal of the school wants to preserve his heritage and is struggling with changing world.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYjVlMjI5NjMtZDljNC00NDZmLTk5YTctMWY1M2U0OTZmYTQzXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "tZrliJEezY0",
+			"Movie_name": "Happy Familyy Pvt Ltd",
+			"Description": "Happy Familyy Pvt Ltd is a comedy feature film which revolves around the story of a rich and happy family which is forced to leave behind the lifestyle of Mumbai and settle in a village.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTFkY2YyMDQtMDQ2ZS00OGY0LTlkZTAtYTYxN2M1ZmIwOGViXkEyXkFqcGdeQXVyMjg3NTgzNTA@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "5qSqPqhbGRI",
+			"Movie_name": "Subh Arambh",
+			"Description": "In the midst of her wedding, a young girl tries to save a 28 year old love marriage, of her future in-laws, which is falling apart.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWY4NjNiNmEtNTljYi00YzU3LTk3ODAtNGI1Y2NmOThiMmNmXkEyXkFqcGdeQXVyMjc1Mzc5Mzg@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 24,
+			"Video_Id": "RW1NOJU6UYg",
+			"Movie_name": "Kevi Rite Jaish",
+			"Description": "Kevi Rite Jaish is a 2012 Indian Gujarati-language drama film directed by Abhishek Jain and produced by Nayan Jain. The film is a satire on the fascination and obsession of the Patels' Gujarati farmer community – migration to the U.S.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/2/25/Kevi_Rite_Jaish_poster.jpg"
+		},
+		{
+			"id": 25,
+			"Video_Id": "3fyphrZ-yUc",
+			"Movie_name": "Chal Man Jeetva Jaiye",
+			"Description": "Chal Man Jeetva Jaiye recounts the riveting saga of a business family which finds itself at the crossroads, where one wrong decision could end up costing them everything.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGU4YTIwYWQtMmI5MS00NWFlLTkxMWUtNzY1NzlmYWUyOWQ4XkEyXkFqcGdeQXVyODgwMzEzMzk@._V1_.jpg"
+		},
+		{
+			"id": 26,
+			"Video_Id": "YCCoIfheDV4",
+			"Movie_name": "Days of Tafree",
+			"Description": "Days of Tafree is a 2016 Bollywood comedy film written and directed by Krishnadev Yagnik.Produced by Anand Pandit and Rashmi Sharma, it revolves around lives of seven friends in a college.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/days-of-tafree-et00044891-17-04-2017-18-00-07.jpg"
+		},
+		{
+			"id": 27,
+			"Video_Id": "RAptB0dH2wQ",
+			"Movie_name": "Gujjubhai Ae Gam Gajavyu",
+			"Description": "The story revolves around three characters Hasubhai (Siddharath Randeria), his daughter Kajal (Leena Shah) and his Manager Rasik (Ashish Bhatt). Having a typical Baniya mentality, Hasubhai wanted his daughter Kajal to marry his employee Rasik.",
+			"Movieimg": "https://m.media-amazon.com/images/I/91MWXXWp+PL._SY879_.jpg"
+		},
+		{
+			"id": 28,
+			"Video_Id": "uIGRN13vFGk",
+			"Movie_name": "Gujjubhai Banya Dabang",
+			"Description": "A terrible gangster gets killed in Pandya's house and Gujjubhai takes credit for this brave deed. Though this brings him name, fame and money; there is a flip side to it. He is followed by gangsters, political parties and soon he realizes that he has put not only his life but lives of all his family members in danger. Is there a way out for poor Gujjubhai?",
+			"Movieimg": "https://i.ytimg.com/vi/KOqTYRQobcs/maxresdefault.jpg"
+		},
+		{
+			"id": 29,
+			"Video_Id": "Ze4yaU_dorc",
+			"Movie_name": "Back Bencher",
+			"Description": "Gopal, a slow learner, is pressurised by his mother to keep up with his fellow students. Finally, he breaks down and escapes from his home after he is unable to take the pressure of failing.",
+			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/back-bencher-gujarati-movie/back-bencher-gujarati-movie.jpg"
+		},
+		{
+			"id": 30,
+			"Video_Id": "oW1NVbZActY",
+			"Movie_name": "Tari Maate Once More",
+			"Description": "It is a triangle love story with much humorous situational comedy and much masti masala content. There is a suspense, romance, comedy, drama, melodrama, aggression, problems at one situation.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGE0MzFiZmQtODQwOC00ZGIwLThkYTctNzA0YWFmYWMxN2FjXkEyXkFqcGdeQXVyOTE4NDQwMTE@._V1_.jpg"
+		},
+		{
+			"id": 31,
+			"Video_Id": "A7jxcjoCIJo",
+			"Movie_name": "Veer ish nu seemant",
+			"Description": "A couple decides not to have kids after their marriage but their families and society have expectations that make it difficult for the newlyweds. Will they stick to their plan?",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTRkYTQ1ODQtNTQwYi00ZDJkLTllNmItYzY1ZTY4ZGM2ZTU3XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 32,
+			"Video_Id": "vR7MV27coF0",
+			"Movie_name": "LAPET",
+			"Description": "Mausam, the daughter of a gangster, must select between three suitors, a local rowdy, an NRI and a villager chosen by her father. Meanwhile, her father's rival plans to kidnap her to seek revenge.",
+			"Movieimg": "https://image.airtel.tv/SHEMAROOME/SHEMAROOME_MOVIE_5fe188e8a609d226f900234e/LANDSCAPE_43/medium_4_3_1666932885.jpg"
+		},
+		{
+			"id": 33,
+			"Video_Id": "T11Dwye53Ls",
+			"Movie_name": "Mister Kalaakar",
+			"Description": "Jigar Majmudar desires to become an actor but his interests clash with the wishes of his father, who is a lawyer. The dedicated Jigar must tackle various obstacles and face incidents which put him in a tough spot. Will he achieve his dream?",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmI3Nzk4NmItMDMwMC00MDBkLWE0ZWYtOGRlZGQ1MThlYjY1XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+		},
+		{
+			"id": 34,
+			"Video_Id": "-ErlLcuaviA",
+			"Movie_name": "Golkeri",
+			"Description": "Sahil and Harshita end their relationship of two years. However, as much as they want to move on and move away from each other, they are stuck in awkward situations put up by their parents, who make persistent attempts to bring them back together.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzEyMDY3YjgtMGVjOS00YmJhLWI2ZDQtZTY3ZTYxNDZiZDRhXkEyXkFqcGdeQXVyNjk3NzQzMzI@._V1_.jpg"
+		},
+		{
+			"id": 35,
+			"Video_Id": "NZ2_iUZ_M1g",
+			"Movie_name": "Aav Taru Kari Nakhu",
+			"Description": "A widower decides to remarry making his sons panic! Watch them hilariously try to sabotage their father s marriage in this out-and-out Gujarati comedy-drama, Aav Taru Kari Nakhu.",
+			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/46bc3f5610377fd80eef98ce1a1af668f2293db7cbea278fe336dcdfe1273a50._RI_V_TTW_.jpg"
+		},
+		{
+			"id": 36,
+			"Video_Id": "C96SWw3TqhQ",
+			"Movie_name": "Khichdi The Movie",
+			"Description": "Himanshu is all set to be married to Parminder but he suddenly realises that his love story lacks thrill and adventure. He and his family then set out on a journey to make his love story memorable.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTA1NzMxZjUtNjc1OC00NWMzLWExOWYtN2MyYzBjZDMxMjM4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+		},
+		{
+			"id": 37,
+			"Video_Id": "kOwCY6ZWo0c",
+			"Movie_name": "Lavari",
+			"Description": "The story revolves around the lives of Three couples out of which two couples are married & one couple fall in love co-incidentally.",
+			"Movieimg": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00048670-grjltrmgrw-portrait.jpg"
+		},
+		{
+			"id": 38,
+			"Video_Id": "bP7FLEOTvnY",
+			"Movie_name": "Tari Sathe",
+			"Description": "Two youngsters at the right age to get married must decide what's important. The girl wants security and stability, while the boy hopes for love and affection.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2U4Mzk5YTAtZmRiOS00N2M5LThmMzEtZGIzNDM3OWI0OGEwXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+		},
+		{
+			"id": 39,
+			"Video_Id": "wcpkbwt-yWc",
+			"Movie_name": "Dear Father",
+			"Description": "After a man falls from his balcony, a police investigation focuses on the man's son and daughter-in-law.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDFjNGU0ODMtZmI5Ni00NzMzLTkxYjgtOGU1NmM4MDlkOTQ0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+		},
+		{
+			"id": 40,
+			"Video_Id": "qHD4X5gpFtQ",
+			"Movie_name": "Vitamin she",
+			"Description": "A carefree insurance agent is on cloud nine after falling in love with a beautiful girl. However, he faces a reality check after frequent fights and altercations threaten to destroy his carefree life.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/d0/Vitamin_She_poster.jpg"
+		},
+		{
+			"id": 41,
+			"Video_Id": "iGWik6gBoBg",
+			"Movie_name": "3 Doba 3 Mistakes Of God",
+			"Description": "The lives of Nayan, Dhwanit and Karan, three differently-abled brothers, take an unexpected turn when they cross paths with a beautiful thief named Sheena.",
+			"Movieimg": "https://2.bp.blogspot.com/-mOlW60s1rLw/V0lDvckQxiI/AAAAAAAAAfw/k_EbUp7SeqYEHeuP8-_wMZcbwLurzAtygCLcB/s1600/ET00039315.jpg"
+		}
+	],
+	"MovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "qcMyNrE__RM",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "3 Ekka",
+			"Movieimg":"https://i.ytimg.com/vi/qcMyNrE__RM/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 2,
+			"Video_Id": "_FgoHstyluk",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Bachubhai",
+			"Movieimg":"https://i.ytimg.com/vi/_FgoHstyluk/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 3,
+			"Video_Id": "5-lMOnKjZTI",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Var Padharavo Saavdhan",
+			"Movieimg":"https://i.ytimg.com/vi/5-lMOnKjZTI/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 4,
+			"Video_Id": "6G2-Qn6xPmo",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Char Fera Nu Chakdol",
+			"Movieimg":"https://i.ytimg.com/vi/6G2-Qn6xPmo/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 5,
+			"Video_Id": "-yuSHaSGy1I",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Tron Ekka",
+			"Movieimg":"https://i.ytimg.com/vi/-yuSHaSGy1I/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 6,
+			"Video_Id": "hHyeK3Cu6ag",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Gulaam Chor",
+			"Movieimg":"https://i.ytimg.com/vi/hHyeK3Cu6ag/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},
+		{
+			"id": 7,
+			"Video_Id": "nPUmI-MV0aQ",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Anokhee",
+			"Movieimg":"https://i.ytimg.com/vi/nPUmI-MV0aQ/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		},		
+		{
+			"id": 8,
+			"Video_Id": "x2A7qmuaE5s",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "FULEKU",
+			"Movieimg":"https://i.ytimg.com/vi/x2A7qmuaE5s/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Gujarati"
+		}
+	]
+  }
+}
