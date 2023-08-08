@@ -3,372 +3,755 @@
 	"Movie":[
 		{
 			"id": 1,
-			"Video_Id": "DOO9WZiN4n0",
-			"Movie_name": "Sharato Lagu",
-			"Description": "Sharato Lagu is a 2018 Indian Gujarati-language comedy drama film starring Malhar Thakar,Deeksha Joshi,Prashant Barot, Hemant Jha, Chhaya Vora and Alpana Buch.",
-			"Movieimg": "https://m.media-amazon.com/images/I/71tFAphY-uL._RI_.jpg"
+			"Video_Id": "wBdCxCOJmPM",
+			"Movie_name": "Circus",
+			"Description": "Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/ab/Cirkus_film_poster.jpg"
 		},
 		{
 			"id": 2,
-			"Video_Id": "yMqnmPbWi1s",
-			"Movie_name": "Gujjubhai The Great",
-			"Description": "Gujjubhai The Great is a 2020 Gujarati comedy film directed by Ishaan Randeria. It is presented by Nakshatra Entertainment and produced by Devendra N. Patel in association with Siddharth Randeria Productions.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/51/Gujjubhai_The_Great_Poster.jpg"
+			"Video_Id": "XjiGaS3qK-M",
+			"Movie_name": "Badhaai Do",
+			"Description": "Shardul, a gay guy, and Suman, a lesbian woman, enter into holy matrimony to appease their families. However, when Suman's girlfriend moves in with them, their lives become more complex.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY1200_CR163,0,630,1200_AL_.jpg"
 		},
 		{
 			"id": 3,
-			"Video_Id": "OhNuXFn9Tu0",
-			"Movie_name": "Love Ni Bhavai",
-			"Description": "Love Ni Bhavai is a 2017 Gujarati romantic drama film directed by Saandeep Patel and produced by Aarti Patel. The background score and soundtrack was composed by Sachin–Jigar, with lyrics from Niren Bhatt.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/ff/Love_Ni_Bhavai_poster.jpg"
+			"Video_Id": "9BuhThEHJBY",
+			"Movie_name": "Dream Girl",
+			"Description": "Karamveer gets a job at a call centre due to his ability to talk in a woman's voice. He garners a big fan following but soon gets in trouble with his overzealous clients.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmUyMzU3YjgtZTliNS00NWM2LWI5ODgtYWE3ZjAzODgyNjNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg"
 		},
 		{
 			"id": 4,
-			"Video_Id": "jar8cDhiw-M",
-			"Movie_name": "Tamburo",
-			"Description": "Tamburo is an Indian Gujarati comedy film directed by Shailesh Shankar. It stars Bollywood veteran actor Manoj Joshi, and Pratik Gandhi, with Bharat Chawda.",
-			"Movieimg": "https://timesofindia.indiatimes.com/photo/61224037.cms"
+			"Video_Id": "_kd6jv1yHTU",
+			"Movie_name": "The Kashmir File",
+			"Description": "Krishna endeavours to uncover the reason behind his parents' brutal killings in Kashmir. He is shocked to uncover a web of lies and conspiracies in connection with the massive genocide.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzJkZDIwYTAtMGU4Mi00NzU3LWI1MWItODg0M2Q1NmIxYmNlXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_.jpg"
 		},
 		{
 			"id": 5,
-			"Video_Id": "rJHsafM32Bk",
-			"Movie_name": "Chhello Divas",
-			"Description": "Chhello Divas – A New Beginning is a Gujarati coming of age comedy film, written and directed by Krishnadev Yagnik. The movie stars Malhar Thakar, Yash Soni, Mitra Gadhavi, Aarjav Trivedi, Rahul Raval, Janki Bodiwala, Kinjal Rajpriya, and Netri Trivedi.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTViN2VlN2QtYjc3Zi00M2EzLWIyNWItZDI5MTUwNmYyMWVkXkEyXkFqcGdeQXVyNjQzNTMxNDQ@._V1_.jpg"
+			"Video_Id": "kRlL0UbJKRE",
+			"Movie_name": "Doctor G",
+			"Description": "Uday Gupta, a medical student, the only male in the gynaecology department of a medical college, ends up in a series of hilarious situations due to his hesitance.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWRhM2NjNjMtMDJmMi00ZjRiLWIzYzAtMWIwNTc4OWUzYzAzXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
 		},
 		{
 			"id": 6,
-			"Video_Id": "EGhTPNrWP3Q",
-			"Movie_name": "Ventilator",
-			"Description": "Ventilator is a 2018 Indian Gujarati comedy-drama film directed by Umang Vyas, and produced by Falguni Patel and Lawrence D'Souza. It is an adaption of 2016 Marathi film Ventilator written and directed by Rajesh Mapuskar and produced by Priyanka Chopra.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTEzYWRjYjktYzg0ZC00NmIwLTg2ZjEtZjZmMmRkOGJmYjJhXkEyXkFqcGdeQXVyNTUyMTYwMDI@._V1_.jpg"
+			"Video_Id": "gADxeBJSZC8",
+			"Movie_name": "AirLift",
+			"Description": "Ranjit Katiyal, an Indian businessman, leads a happy and successful life in Kuwait with his family. However, when Iraq invades Kuwait, he decides to risk his life to save his stranded countrymen.",
+			"Movieimg": "https://m.media-amazon.com/images/I/917OMVInbML._AC_UF1000,1000_QL80_.jpg"
 		},
 		{
 			"id": 7,
-			"Video_Id": "CFdNaAJuwTY",
-			"Movie_name": "Passport",
-			"Description": "Anna, an American student loses in her passport in Ahmedabad and Kabir (Malhar Thakar), helps her find it.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmE1MDE1OWYtOTVlMS00Y2MxLWIyZTItYThmNDk3ZjU3NDA3XkEyXkFqcGdeQXVyMjI0NzIwNjc@._V1_.jpg"
+			"Video_Id": "bKX-pVHibDA",
+			"Movie_name": "Mili",
+			"Description": "Mili Naudiyal works part-time in a restaurant while preparing to secure a job in Canada. However, her life turns into a fight for survival when she accidentally gets locked in a freezer.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/46/Mili_2022_poster.jpg"
 		},
 		{
 			"id": 8,
-			"Video_Id": "AVc9MsVDG-Q",
-			"Movie_name": "Gujjubhai Most Wanted",
-			"Description": "GujjuBhai - Most Wanted is a 2018 Indian Gujarati comedy film directed by Ishaan Randeria. This is the second film in Gujjubhai film series and sequel to Gujjubhai the Great (2015). It stars Siddharth Randeria and Jimit Trivedi in the lead roles.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/9/94/GujjuBhai_Most_Wanted_poster.jpg"
+			"Video_Id": "HxlcCZM9A90",
+			"Movie_name": "Gumraah",
+			"Description": "When a young man is found dead, a murder investigation is underway to find the culprit. However, complications arise when the police find the suspect's uncanny look alike.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjFjYzk2YTAtNTY4My00NjYxLWI0OGUtMThhYWZhNTllYWMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
 			"id": 9,
-			"Video_Id": "WXdrVHhhnJg",
-			"Movie_name": "Pappa Tamne Nahi Samjaay",
-			"Description": "Pappa Tamne Nahi Samjaay is a 2017 Indian Gujarati-language comedy-drama film written and directed by Dharmesh Mehta, and produced by Alpesh Patel, Harsh Patel and Snehal Trivedi.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTNiNDYxY2EtZjYwOC00YTU4LTk2NjEtOTQ0MDM4MTdjYmFmXkEyXkFqcGdeQXVyNzg4Mzc3Njc@._V1_.jpg"
+			"Video_Id": "2wDn7d2PKiE",
+			"Movie_name": "Shehzada",
+			"Description": "Valmiki and Randeep start their career as clerks in the company of Aditya Jindal. Randeep, who marries Jindal's daughter Yasoda \"Yasu\", becomes wealthy while Valmiki remains poor.",
+			"Movieimg": "https://assets.gadgets360cdn.com/pricee/assets/product/202302/Shehzada_1676463098.jpg"
 		},
 		{
 			"id": 10,
-			"Video_Id": "nMAOJFbn0kI",
-			"Movie_name": "Reva",
-			"Description": "Reva: A Journey Within is a 2018 Gujarati adventure drama film starring Chetan Dhanani and Monal Gajjar produced by Brainbox Studios and Baroda Talkies. The film is based on Gujarati author Dhruv Bhatt's 1998 Gujarati novel Tatvamasi.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/a1/Reva_Poster_Full.jpg"
+			"Video_Id": "-lxvJ3Itomc",
+			"Movie_name": "Ram Setu",
+			"Description": "Ram Setu is a 2022 Indian Hindi-language action-adventure film directed by Abhishek Sharma. The film stars Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha and Satya Dev and follows an archeologist who is investigating the nature of Rama Setu, also known as Adam's Bridge.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGQ3YjM3MWMtMmIxNC00YjI0LWJhMmUtZjJiMjA0ZjY4MDNkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
 		},
 		{
 			"id": 11,
-			"Video_Id": "KQo2QQw1KaY",
-			"Movie_name": "Karsandas Pay and Use",
-			"Description": "Karsandas Pay & Use is a 2017 Indian Gujarati-language romantic comedy film written and directed by Krishnadev Yagnik and produced by Nilay Chotai and Vaishal Shah. The film stars Mayur Chauhan, Deeksha Joshi and Hemang Shah in lead roles and was released on 19 May 2017.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjRhZmMzODgtMTEyOS00N2M1LWFiMGQtMWQyNGFhMzliNmRjXkEyXkFqcGdeQXVyNjA5MTkzNTg@._V1_.jpg"
+			"Video_Id": "SsX2d4fqML8",
+			"Movie_name": "Guest In London",
+			"Description": "Aryan is in a live-in relationship with his partner, Anaya, in London. However, problems arise when Gangasharan and Guddi, their uncle and aunt from India, come to their house uninvited.",
+			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/473574645a7de23506a2eb5f940bc3865d53d3a79e10bd1db38c065b775da017._RI_V_TTW_.jpg"
 		},
 		{
 			"id": 12,
-			"Video_Id": "EkaX-Vd77Bw",
-			"Movie_name": "Mijaaj",
-			"Description": "Mijaaj is a 2018 Indian Gujarati action drama film directed by Tapan Vyas, written by Pravin Pandya and produced by Jitendra Pandya. It stars Malhar Thakar, Esha Kansara, Revanta Sarabhai, Abhinay Banker, Chhaya Vora, Jayesh More, Bhatt Bhushan, Andy von Eich & Kajal Pisal.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDgyOTllMWUtZWQ1ZC00YjUzLWE1YTktZWEwMWUzODNmYzE4XkEyXkFqcGdeQXVyODQ4MTIxNjI@._V1_.jpg"
+			"Video_Id": "djB0Tcu8iXs",
+			"Movie_name": "Cirkus",
+			"Description": "Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzViMzYyNzYtZDQ5ZS00YzkwLWI4ZWUtYzljZWEyNTdjYmQ2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 13,
-			"Video_Id": "QmGbog0HANE",
-			"Movie_name": "Suryansh",
-			"Description": "A brave police officer trying to make society crime free.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjZiOTA5ZjMtZjY5MS00YjgzLTgyMGMtNGM1MDJhYjhiOTA0XkEyXkFqcGdeQXVyOTM2ODAxNjg@._V1_.jpg"
+			"Video_Id": "IwA_LrtH7YM",
+			"Movie_name": "AIYAARY",
+			"Description": "After Colonel Abhay Singh and his protege, Jai Bakshi, have a fallout, Jai goes rogue and threatens to bring down the government. Learning about this, his mentor is forced to go after him.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjI1NTk0NTc1OV5BMl5BanBnXkFtZTgwNTMwMTE4NDM@._V1_.jpg"
 		},
 		{
 			"id": 14,
-			"Video_Id": "QGeY9Y5zg2Q",
-			"Movie_name": "Vandha Villas",
-			"Description": "Fortunately or unfortunately Dhyanchand, Harinanrayan and Lakhudas are cursed by one of their ancestors that the coming six generations will have to marry two times and if they don't, they will take birth as monkeys in their next lives.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzE4ZGU3MzMtYWVhZC00MTIyLWEyODgtNmY3ZTcyYzUwNWM2XkEyXkFqcGdeQXVyNjA5MTkzNTg@._V1_.jpg"
+			"Video_Id": "juPq9P3Kfww",
+			"Movie_name": "Judwa 2",
+			"Description": "Raja and Prem, twins separated at birth but connected through reflexes, join forces as adults to take down an underground smuggling kingpin who threatens to destroy their family.",
+			"Movieimg": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/Judwaa-2-6.jpg"
 		},
 		{
 			"id": 15,
-			"Video_Id": "Ru3nlHbwf-s",
-			"Movie_name": "Chasani",
-			"Description": "Married for 25 years now, Ramnik has a picture-perfect life despite never experiencing true love. On the other hand, 25-year-old Rahul has just lost the love of his life.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWFlOWM0NGItZjljMy00NDZkLWE5N2UtMTUwYzc5ZThhYWFiXkEyXkFqcGdeQXVyODE4ODE1MDU@._V1_.jpg"
+			"Video_Id": "GDfkGV06ocw",
+			"Movie_name": "Ajab Gazabb Love",
+			"Description": "Rajveer, a rich man, falls in love with Madhuri. However, he soon realises that she detests affluent people and in order to win her heart, he, along with his family, pretends to be poor.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/1/19/Ajab_Gazabb_Love_2.jpg"
 		},
 		{
 			"id": 16,
-			"Video_Id": "ZSNi9ThAA_Q",
-			"Movie_name": "Duniyadari",
-			"Description": "Duniyadari is a 2017 Gujarati movie a remake of Marathi movie Duniyadari produced by Tajdar Amrohi and Riyaz Balooch and directed by Shital Shah. Duniyadari is a story of love, friendship, relationship and destiny based in the period of mid 70s.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzAwMWJkNmItNTI4ZS00MTMwLTlhN2ItMDMxMjg4OTYwYWJhL2ltYWdlXkEyXkFqcGdeQXVyNzA3NTE5MDY@._V1_.jpg"
+			"Video_Id": "6hi54tBWNSI",
+			"Movie_name": "MS Dhoni The UnTold Story",
+			"Description": "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjAzZjZiMmQtMDZmOC00NjVmLTkyNTItOGI2Mzg4NTBhZTA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
 			"id": 17,
-			"Video_Id": "hK9DhPJD4nQ",
-			"Movie_name": "Luv Ni Love Storys",
-			"Description": "Luv Ni Love Storys is a 2020 Gujarati romantic comedy-drama film written and directed by Durgesh Tanna. The film is produced by Manish Andani and Karim Minsariya under the banner of Swissk Entertainment and DB Talkies.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/d0/Luv_Ni_Love_Storys.jpeg"
+			"Video_Id": "z0mukDgYNLk",
+			"Movie_name": "Dabangg",
+			"Description": "Chulbul Pandey, a young boy, lives with his younger half-brother, Makkhanchand \"Makkhi\" Pandey, stepfather Prajapati Pandey and mother, Naina Devi in Laalgunj, Uttar Pradesh.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ0Mzg2Ml5BMl5BanBnXkFtZTcwMDcyOTM5NA@@._V1_.jpg"
 		},
 		{
 			"id": 18,
-			"Video_Id": "-y_lO028ChA",
-			"Movie_name": "Saheb",
-			"Description": "Saheb is a 2019 Gujarati film starring Malhar Thakar & Kinjal Rajpriya. The film is directed by Shailesh Prajapati and written by Paresh Vyas.The film was released on 8 February 2019.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzlmMTFiMTQtODc0NC00NTBhLThkY2QtZmRlMjJhYjQ2YTY2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+			"Video_Id": "up3XTU_h57k",
+			"Movie_name": "Dabang 2",
+			"Description": "Chulbul Pandey, a wayward policeman, kills the brother of a crooked politician. In retribution, the politician sends his henchmen to attack Chulbul's wife which leaves Chulbul infuriated.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTVlZjIxMGItNzJjNS00YjMyLWE2OTMtYTJjNjQ1NzI2ZTAzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
 		},
 		{
 			"id": 19,
-			"Video_Id": "zCkfdN98EQ8",
-			"Movie_name": "Tuu To Gayo",
-			"Description": "Tuu to Gayo is upcoming Gujarati Movie Directed by Dhwani Gautam. It is a story of four friends and their story about marriage.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTY2NzQ1YTUtMmYwMS00YWEzLTk0YTMtMWJlNmNhODZjYWE0XkEyXkFqcGdeQXVyMjg3NTgzNTA@._V1_.jpg"
+			"Video_Id": "5GJkkIcQR60",
+			"Movie_name": "Bajrangi bhaijaan",
+			"Description": "Pawan, a devotee of Lord Hanuman, finds a girl, who is speech impaired, lost in Haryana. He soon learns that she belongs to Pakistan and sets out to reunite her with her family at great personal cost.",
+			"Movieimg": "https://static.moviecrow.com/marquee/bajrangi-bhaijaan-trailer-release-date/64918_thumb_665.jpg"
 		},
 		{
 			"id": 20,
-			"Video_Id": "rlgNNWyQesc",
-			"Movie_name": "PAHELO DIVAS",
-			"Description": "Pahelo Divas is a Gujarati movie starring Dilip Prakash and Aashika in prominent roles. It is a drama directed by Mahesh Babu with Pankaj Bhatt as musician, forming part of the crew.",
-			"Movieimg": "https://m.media-amazon.com/images/I/71ERdFEgIgL._RI_.jpg"
+			"Video_Id": "xEydoxP4Noo",
+			"Movie_name": "Wanted",
+			"Description": "A sharpshooter is caught between a gangster who wants him dead since he knows too much, the police who want him for the information he holds and his girlfriend who yearns for him to mend his ways.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWFlMDNkODktMjkzMS00NTMwLWJiMjQtOWU2NTA4MjBmZGZmXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
 		},
 		{
 			"id": 21,
-			"Video_Id": "I5_Di0lFams",
-			"Movie_name": "Gajab Thai Gayo!",
-			"Description": "Sheth Kapurchand Mangaldas Vidyalaya is one of the last existing Gujarati medium schools. Principal of the school wants to preserve his heritage and is struggling with changing world.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYjVlMjI5NjMtZDljNC00NDZmLTk5YTctMWY1M2U0OTZmYTQzXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+			"Video_Id": "pxNrQ-E498s",
+			"Movie_name": "Baaghi 2",
+			"Description": "Neha, a married woman has a daughter, Rhea whom she loves dearly. On Rhea's first day of school, Neha is attacked by masked men.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/e/e2/Baaghi_2_Official_Poster.jpg"
 		},
 		{
 			"id": 22,
-			"Video_Id": "tZrliJEezY0",
-			"Movie_name": "Happy Familyy Pvt Ltd",
-			"Description": "Happy Familyy Pvt Ltd is a comedy feature film which revolves around the story of a rich and happy family which is forced to leave behind the lifestyle of Mumbai and settle in a village.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTFkY2YyMDQtMDQ2ZS00OGY0LTlkZTAtYTYxN2M1ZmIwOGViXkEyXkFqcGdeQXVyMjg3NTgzNTA@._V1_FMjpg_UX1000_.jpg"
+			"Video_Id": "I9sR4sRAAaI",
+			"Movie_name": "Student Of The Year 2",
+			"Description": "Rohan follows his lover, Mridula, to St Teresa's college hoping to reunite with her. There, he befriends Manav, the most popular student, but is constantly at loggerheads with his sister, Shreya.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmFiNjRlODUtNjRiZi00ZDQ0LTk3ZDItZDhjNmU5N2RkNGNjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
 			"id": 23,
-			"Video_Id": "5qSqPqhbGRI",
-			"Movie_name": "Subh Arambh",
-			"Description": "In the midst of her wedding, a young girl tries to save a 28 year old love marriage, of her future in-laws, which is falling apart.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWY4NjNiNmEtNTljYi00YzU3LTk3ODAtNGI1Y2NmOThiMmNmXkEyXkFqcGdeQXVyMjc1Mzc5Mzg@._V1_FMjpg_UX1000_.jpg"
+			"Video_Id": "zloKjQXmwhE",
+			"Movie_name": "Bhagam Bhag",
+			"Description": "Champak, a theatre owner, is in need of an actress and his employees, Bunty and Babla, help him in his search. They get into trouble after their bag is switched with another one containing drugs.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWUwOTZlNTItZDA3Zi00MmQ5LWE1MDQtZTA1Yzg3ZGIwNWU5XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 24,
-			"Video_Id": "RW1NOJU6UYg",
-			"Movie_name": "Kevi Rite Jaish",
-			"Description": "Kevi Rite Jaish is a 2012 Indian Gujarati-language drama film directed by Abhishek Jain and produced by Nayan Jain. The film is a satire on the fascination and obsession of the Patels' Gujarati farmer community – migration to the U.S.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/2/25/Kevi_Rite_Jaish_poster.jpg"
+			"Video_Id": "ezFh132Ko0E",
+			"Movie_name": "Bhoothnath",
+			"Description": "Bhoothnath is a 2008 Indian Hindi-language supernatural comedy film written and directed by Vivek Sharma, starring Amitabh Bachchan, Juhi Chawla, Aman Siddiqui, Priyanshu Chatterjee and Rajpal Yadav and features Shah Rukh Khan in a cameo appearance.",
+			"Movieimg": "https://img.indiaforums.com/media/640x0/1/1593-bhoothnath-movie-poster-with-amitabh-and-aman.jpg"
 		},
 		{
 			"id": 25,
-			"Video_Id": "3fyphrZ-yUc",
-			"Movie_name": "Chal Man Jeetva Jaiye",
-			"Description": "Chal Man Jeetva Jaiye recounts the riveting saga of a business family which finds itself at the crossroads, where one wrong decision could end up costing them everything.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGU4YTIwYWQtMmI5MS00NWFlLTkxMWUtNzY1NzlmYWUyOWQ4XkEyXkFqcGdeQXVyODgwMzEzMzk@._V1_.jpg"
+			"Video_Id": "c3XJ1H3lgPU",
+			"Movie_name": "Kya Super Kool Hain Hum",
+			"Description": "Adi and Sid follow Simran and Anu to Goa, where the girls are visiting Anu's mentally unstable father. Soon, the two men get into a series of raunchy and ridiculous misadventures.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2JlZGYzY2EtYWUzNC00OWMwLWEyZjktNmZkNGM4Mjg4ZDdlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
 			"id": 26,
-			"Video_Id": "YCCoIfheDV4",
-			"Movie_name": "Days of Tafree",
-			"Description": "Days of Tafree is a 2016 Bollywood comedy film written and directed by Krishnadev Yagnik.Produced by Anand Pandit and Rashmi Sharma, it revolves around lives of seven friends in a college.",
-			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/days-of-tafree-et00044891-17-04-2017-18-00-07.jpg"
+			"Video_Id": "Gy9QUrvnsPk",
+			"Movie_name": "Dangal",
+			"Description": "Mahavir loses hope and shuts his dream of winning gold for the nation. His teenage daughters Geeta and Babita indulge in a fight with the local boys and hit them so hard that they are left badly injured.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 27,
-			"Video_Id": "RAptB0dH2wQ",
-			"Movie_name": "Gujjubhai Ae Gam Gajavyu",
-			"Description": "The story revolves around three characters Hasubhai (Siddharath Randeria), his daughter Kajal (Leena Shah) and his Manager Rasik (Ashish Bhatt). Having a typical Baniya mentality, Hasubhai wanted his daughter Kajal to marry his employee Rasik.",
-			"Movieimg": "https://m.media-amazon.com/images/I/91MWXXWp+PL._SY879_.jpg"
+			"Video_Id": "Dn26dn7e8Q0",
+			"Movie_name": "HEY BABBY",
+			"Description": "Three compulsive womanisers find a baby left at their doorstep. However, chaos ensues as they try to contact their former girlfriends to determine who is the father amongst them.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTY1OTc2MTY3M15BMl5BanBnXkFtZTgwMDgxMTA2MDE@._V1_.jpg"
 		},
 		{
 			"id": 28,
-			"Video_Id": "uIGRN13vFGk",
-			"Movie_name": "Gujjubhai Banya Dabang",
-			"Description": "A terrible gangster gets killed in Pandya's house and Gujjubhai takes credit for this brave deed. Though this brings him name, fame and money; there is a flip side to it. He is followed by gangsters, political parties and soon he realizes that he has put not only his life but lives of all his family members in danger. Is there a way out for poor Gujjubhai?",
-			"Movieimg": "https://i.ytimg.com/vi/KOqTYRQobcs/maxresdefault.jpg"
+			"Video_Id": "tFUPawuuefE",
+			"Movie_name": "Attack",
+			"Description": "Attack: Part 1 is a 2022 Indian Hindi-language science fiction action film directed by Lakshya Raj Anand, who co-wrote the film with Sumit Batheja and Vishal Kapoor, based on a story by John Abraham.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGZkODczYmEtNjU3YS00ZmI5LTg1M2YtMjUxNmJiZDcxZmZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
 		},
 		{
-			"id": 29,
-			"Video_Id": "Ze4yaU_dorc",
-			"Movie_name": "Back Bencher",
-			"Description": "Gopal, a slow learner, is pressurised by his mother to keep up with his fellow students. Finally, he breaks down and escapes from his home after he is unable to take the pressure of failing.",
-			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/back-bencher-gujarati-movie/back-bencher-gujarati-movie.jpg"
+			"id": 29,	
+			"Video_Id": "yrGcVuhG5k4",
+			"Movie_name": "Chakravyuh",
+			"Description": "Chakravyuh is a 2012 Indian naxal propaganda Hindi-language political action thriller film directed by Prakash Jha starring Arjun Rampal in the lead role with Abhay Deol, Esha Gupta, Manoj Bajpayee and Anjali Patil in supporting roles.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/3/3f/Chakravyuh.jpg"
 		},
 		{
-			"id": 30,
-			"Video_Id": "oW1NVbZActY",
-			"Movie_name": "Tari Maate Once More",
-			"Description": "It is a triangle love story with much humorous situational comedy and much masti masala content. There is a suspense, romance, comedy, drama, melodrama, aggression, problems at one situation.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGE0MzFiZmQtODQwOC00ZGIwLThkYTctNzA0YWFmYWMxN2FjXkEyXkFqcGdeQXVyOTE4NDQwMTE@._V1_.jpg"
+			"id": 30,	
+			"Video_Id": "hrLxbiPagTU",
+			"Movie_name": "Ek Villain return",
+			"Description": "Ek Villain Returns is a 2022 Indian Hindi-language action thriller film written and directed by Mohit Suri, being a standalone sequel to his 2014 film Ek Villain, and produced by T-Series and Balaji Motion Pictures.It stars John Abraham, Arjun Kapoor, Disha Patani and Tara Sutaria.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTYyY2ViYzItOGE1MC00OTE2LWE5ZmYtNjY5NDZjZGRhYmE3XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg"
 		},
 		{
 			"id": 31,
-			"Video_Id": "A7jxcjoCIJo",
-			"Movie_name": "Veer ish nu seemant",
-			"Description": "A couple decides not to have kids after their marriage but their families and society have expectations that make it difficult for the newlyweds. Will they stick to their plan?",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTRkYTQ1ODQtNTQwYi00ZDJkLTllNmItYzY1ZTY4ZGM2ZTU3XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_FMjpg_UX1000_.jpg"
+			"Video_Id": "ND34Mt9MjMU",
+			"Movie_name": "Vadh",
+			"Description": "Vadh is a 2022 Indian Hindi-language thriller film written and directed by Jaspal Singh Sandhu, Rajiv Barnwal and produced by Luv Films.Vadh was scheduled to theatrical released on December 9, 2022.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTBlMDI1MWUtYTAyNC00NTczLWE3MWYtYzE3YWNmYWQwZmM3XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg"
 		},
 		{
 			"id": 32,
-			"Video_Id": "vR7MV27coF0",
-			"Movie_name": "LAPET",
-			"Description": "Mausam, the daughter of a gangster, must select between three suitors, a local rowdy, an NRI and a villager chosen by her father. Meanwhile, her father's rival plans to kidnap her to seek revenge.",
-			"Movieimg": "https://image.airtel.tv/SHEMAROOME/SHEMAROOME_MOVIE_5fe188e8a609d226f900234e/LANDSCAPE_43/medium_4_3_1666932885.jpg"
+			"Video_Id": "s_KN1asDGC4",
+			"Movie_name": "Mimi",
+			"Description": "Mimi is a 2021 Indian Hindi-language comedy-drama film directed by Laxman Utekar and produced by Dinesh Vijan under Maddock Films. A remake of the 2011 Marathi film Mala Aai Vhhaychy!",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/f4/Mimi_2021_Hindi_poster.jpg"
 		},
 		{
 			"id": 33,
-			"Video_Id": "T11Dwye53Ls",
-			"Movie_name": "Mister Kalaakar",
-			"Description": "Jigar Majmudar desires to become an actor but his interests clash with the wishes of his father, who is a lawyer. The dedicated Jigar must tackle various obstacles and face incidents which put him in a tough spot. Will he achieve his dream?",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmI3Nzk4NmItMDMwMC00MDBkLWE0ZWYtOGRlZGQ1MThlYjY1XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+			"Video_Id": "JV7HEFVF5z8",
+			"Movie_name": "Agent Vinod",
+			"Description": "Agent Vinod is a 2020 Indian Hindi-language action spy film written and directed by Sriram Raghavan produced by Saif Ali Khan and Dinesh Vijan.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/5e/Agent_Vinod_2.jpg"
 		},
 		{
 			"id": 34,
-			"Video_Id": "-ErlLcuaviA",
-			"Movie_name": "Golkeri",
-			"Description": "Sahil and Harshita end their relationship of two years. However, as much as they want to move on and move away from each other, they are stuck in awkward situations put up by their parents, who make persistent attempts to bring them back together.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzEyMDY3YjgtMGVjOS00YmJhLWI2ZDQtZTY3ZTYxNDZiZDRhXkEyXkFqcGdeQXVyNjk3NzQzMzI@._V1_.jpg"
+			"Video_Id": "WWBhfdaRfro",
+			"Movie_name": "Kahaani 2: Durga Rani Singh",
+			"Description": "Vidya lives in a small town with Minnie, a girl with paralysis. When someone kidnaps Minnie, Vidya tries to save her, but she meets with an accident on the way, landing herself in a hospital.",
+			"Movieimg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWUsR111Bi7QNIO9tFuGrlS3Ooaqh9oMQKPzRFO5jBdhJ32dS6"
 		},
 		{
 			"id": 35,
-			"Video_Id": "NZ2_iUZ_M1g",
-			"Movie_name": "Aav Taru Kari Nakhu",
-			"Description": "A widower decides to remarry making his sons panic! Watch them hilariously try to sabotage their father s marriage in this out-and-out Gujarati comedy-drama, Aav Taru Kari Nakhu.",
-			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/46bc3f5610377fd80eef98ce1a1af668f2293db7cbea278fe336dcdfe1273a50._RI_V_TTW_.jpg"
+			"Video_Id": "pbR9nAgTPqY",
+			"Movie_name": "Pink",
+			"Description": "After being molested, Minal, along with her friends, tries to file an FIR against a politician's nephew. When the subsequent case gets rigged, Deepak, a retired lawyer, helps them to fight the case.",
+			"Movieimg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5FfTEO11_DmqTzYZDK5s3_AFjPUGqqZcuch0hf8XQN2gKWJ5G"
 		},
 		{
 			"id": 36,
-			"Video_Id": "C96SWw3TqhQ",
-			"Movie_name": "Khichdi The Movie",
-			"Description": "Himanshu is all set to be married to Parminder but he suddenly realises that his love story lacks thrill and adventure. He and his family then set out on a journey to make his love story memorable.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTA1NzMxZjUtNjc1OC00NWMzLWExOWYtN2MyYzBjZDMxMjM4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+			"Video_Id": "OzUaOKLFulc",
+			"Movie_name": "Laal Singh Chaddha",
+			"Description": "Laal Singh Chaddha is a 2022 Indian Hindi-language comedy-drama film directed by Advait Chandan from a screenplay by Eric Roth and Atul Kulkarni.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg"
 		},
 		{
 			"id": 37,
-			"Video_Id": "kOwCY6ZWo0c",
-			"Movie_name": "Lavari",
-			"Description": "The story revolves around the lives of Three couples out of which two couples are married & one couple fall in love co-incidentally.",
-			"Movieimg": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00048670-grjltrmgrw-portrait.jpg"
+			"Video_Id": "hrLxbiPagTU",
+			"Movie_name": "Ek Villan 2",
+			"Description": "Ek Villain 2 is a 2022 Indian Hindi-language action thriller film written and directed by Mohit Suri, being a spiritual successor to his 2014 film Ek Villain, and produced by T-Series and Balaji Motion Pictures.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/a6/Ek_Villain_Returns.jpg"
 		},
 		{
 			"id": 38,
-			"Video_Id": "bP7FLEOTvnY",
-			"Movie_name": "Tari Sathe",
-			"Description": "Two youngsters at the right age to get married must decide what's important. The girl wants security and stability, while the boy hopes for love and affection.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2U4Mzk5YTAtZmRiOS00N2M5LThmMzEtZGIzNDM3OWI0OGEwXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg"
+			"Video_Id": "pBfA8q_aBbQ",
+			"Movie_name": "Panipat",
+			"Description": "Panipat is a 2019 Indian Hindi-language epic war drama film directed by Ashutosh Gowarikar.Starring Sanjay Dutt, Arjun Kapoor, and Kriti Sanon, it depicts the events that took place during the Third Battle of Panipat.",
+			"Movieimg": "https://flxt.tmsimg.com/assets/p17603535_p_v8_aa.jpg"
 		},
 		{
 			"id": 39,
-			"Video_Id": "wcpkbwt-yWc",
-			"Movie_name": "Dear Father",
-			"Description": "After a man falls from his balcony, a police investigation focuses on the man's son and daughter-in-law.",
-			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDFjNGU0ODMtZmI5Ni00NzMzLTkxYjgtOGU1NmM4MDlkOTQ0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+			"Video_Id": "4mvN-u8VLP4",
+			"Movie_name": "Dasvi",
+			"Description": "Dasvi is a 2022 Indian Hindi-language social comedy film directed by debutante Tushar Jalota and produced by Dinesh Vijan under his banner Maddock Films in collaboration with Jio Studios",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/0/0d/Dasvi.jpg"
 		},
 		{
 			"id": 40,
-			"Video_Id": "qHD4X5gpFtQ",
-			"Movie_name": "Vitamin she",
-			"Description": "A carefree insurance agent is on cloud nine after falling in love with a beautiful girl. However, he faces a reality check after frequent fights and altercations threaten to destroy his carefree life.",
-			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/d0/Vitamin_She_poster.jpg"
+			"Video_Id": "u8rxTCNxJRI",
+			"Movie_name": "Gangubai Kathiawadi",
+			"Description": "Gangubai Kathiawadi is a 2022 Indian Hindi-language biographical crime drama film directed by Sanjay Leela Bhansali and produced by Jayantilal Gada and Bhansali.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/gangubai-kathiawadi-et00310181-22-02-2022-01-07-20.jpg"
 		},
 		{
 			"id": 41,
-			"Video_Id": "iGWik6gBoBg",
-			"Movie_name": "3 Doba 3 Mistakes Of God",
-			"Description": "The lives of Nayan, Dhwanit and Karan, three differently-abled brothers, take an unexpected turn when they cross paths with a beautiful thief named Sheena.",
-			"Movieimg": "https://2.bp.blogspot.com/-mOlW60s1rLw/V0lDvckQxiI/AAAAAAAAAfw/k_EbUp7SeqYEHeuP8-_wMZcbwLurzAtygCLcB/s1600/ET00039315.jpg"
+			"Video_Id": "-8VN1Usk78A",
+			"Movie_name": "Kis Kisko Pyaar Karoon",
+			"Description": "Kis Kisko Pyaar Karoon is a 2015 Indian Hindi-language comedy film directed by Abbas Mustan.",
+			"Movieimg": "https://movieassetsdigital.sgp1.cdn.digitaloceanspaces.com/original/84ef41577a7a278f55ce6c6bae21a393a3d48937"
+		},
+		{
+			"id": 42,
+			"Video_Id": "KQbHQTX0IwY",
+			"Movie_name": "Mangal Pandey",
+			"Description": "Mangal Pandey: The Rising is a 2005 Indian historical biographical drama film based on the life of Mangal Pandey",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/c/c0/Mangal_Pandey_movie_poster.jpg"
+		},
+		{
+			"id": 43,
+			"Video_Id": "4qDwj4S8bE8",
+			"Movie_name": "Barfi",
+			"Description": "Barfi! is a 2012 Indian Hindi-language romantic comedy-drama film directed by Anurag Basu and produced by Ronnie Screwvala and Siddharth Roy Kapur under UTV Motion Pictures.",
+			"Movieimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiwKIHWGRhZIBDOBn2mMrt8OzLKHUKQqnY2dWVG61OxgclTwNh"
+		},
+		{
+			"id": 44,
+			"Video_Id": "smLNCbYNQP4",
+			"Movie_name": "Entertainment",
+			"Description": "Entertainment is a 2014 Indian Hindi-language action comedy film written and directed by popular screenwriter duo Sajid-Farhad and produced by Ramesh S.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/7/76/Its_Entertainment.jpg"
+		},
+		{
+			"id": 45,
+			"Video_Id": "jzYxbnHHhY4",
+			"Movie_name": "Bhool Bhulaiyaa",
+			"Description": "Bhool Bhulaiyaa is a 2007 Indian Hindi-language psychological horror comedy film directed by Priyadarshan and produced by Bhushan Kumar and Krishan Kumar under the T-Series Films banner.",
+			"Movieimg": "https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg"
+		},
+		{
+			"id": 46,
+			"Video_Id": "qo2pSnJrelY",
+			"Movie_name": "Race 2",
+			"Description": "Race 2 is a 2013 Indian Hindi-language action crime film directed by Abbas-Mustan and written by Kiran Kotrial and Shiraz Ahmed.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjA4NzEzODQ3NV5BMl5BanBnXkFtZTcwMDMzMjg3OA@@._V1_.jpg"
+		},
+		{
+			"id": 47,
+			"Video_Id": "CTtB4tlhlbk",
+			"Movie_name": "JOLLY LLB",
+			"Description": "Jolly LLB is a 2013 Indian Hindi-language black comedy film, written and directed by Subhash Kapoor.",
+			"Movieimg": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201303/jolly-llb_660_031813071818.jpg"
+		},
+		{
+			"id": 48,
+			"Video_Id": "Z-OzON9uiN8",
+			"Movie_name": "Khoobsurat",
+			"Description": "Khoobsurat is a 2014 Indian Hindi-language romantic comedy-drama film.[The film is directed by Shashanka Ghosh and produced by Rhea Kapoor, Anil Kapoor and Siddharth Roy Kapur.It stars Sonam Kapoor, Fawad Khan, Kirron Kher, Ratna Pathak and Aamir Raza Hussain.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/7/79/Disney_Khoobsurat.jpg"
+		},
+		{
+			"id": 49,
+			"Video_Id": "TIQ5hrfermg",
+			"Movie_name": "Phir Hera Pheri",
+			"Description": "Phir Hera Pheri is a 2006 Indian Hindi-language comedy film co-written and directed by Neeraj Vora. Serving as the sequel to Hera Pheri (2000), it stars Akshay Kumar, Suniel Shetty and Paresh Rawal reprising their roles from the previous film along with Bipasha Basu, Rimi Sen, Johnny Lever and Rajpal Yadav.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzgzYjZjYzMtNjcyYy00NWI3LTg1NDItOTMzMzdhMjhjNWExXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg"
+		},
+		{
+			"id": 50,
+			"Video_Id": "FvBHysyml1M",
+			"Movie_name": "Jodhaa Akbar",
+			"Description": "Jodhaa Akbar is a 2008 Indian epic historical drama or historical fiction film co-written, produced and directed by Ashutosh Gowariker.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTI1ODQ2MDIxMl5BMl5BanBnXkFtZTcwNTc3Mzk1MQ@@._V1_.jpg"
+		},
+		{
+			"id": 51,
+			"Video_Id": "dz3uCM-MrGY",
+			"Movie_name": "Gangs of Wasseypur",
+			"Description": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part crime film produced and directed by Anurag Kashyap,and written by Kashyap and Zeishan Quadri.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_.jpg"
+		},
+		{
+			"id": 52,
+			"Video_Id": "vCKJuQJG42w",
+			"Movie_name": "Rocky Handsome",
+			"Description": "Rocky Handsome is a 2016 Indian Hindi-language action thriller film directed by Nishikant Kamat, written by Ritesh Shah, and produced by John Abraham under J. A. Entertainment and Sunir Khetrapal under Azure Entertainment respectively.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGRkNDA0MzItYzk0ZS00YzY4LTk1YjYtMjAyZTM0YWM2YTBkXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
+		},
+		{
+			"id": 53,
+			"Video_Id": "AS2vqqq3hes",
+			"Movie_name": "Bhoothnath Returns",
+			"Description": "Bhoothnath Returns is a 2014 Indian Hindi-language supernatural comedy film directed by Nitesh Tiwari and produced by Bhushan Kumar.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzk1MTMyMjAxMV5BMl5BanBnXkFtZTgwMDA1Mzc0MTE@._V1_.jpg"
+		},
+		{
+			"id": 54,
+			"Video_Id": "QbYSL-HWlh4",
+			"Movie_name": "Housefull 3",
+			"Description": "Housefull 3 is a 2016 Indian Hindi-language action comedy film co-written and directed by Sajid-Farhad and produced by Sajid Nadiadwala under the banner Nadiadwala Grandson Entertainment.",
+			"Movieimg": "https://m.media-amazon.com/images/I/A1qUPdMdMQL._AC_SL1500_.jpg"
+		},
+		{
+			"id": 55,
+			"Video_Id": "eSbDxdE-5SU",
+			"Movie_name": "PK",
+			"Description": "PK is a 2014 Indian Hindi-language science fiction comedy-drama film edited and directed by Rajkumar Hirani and written by Hirani and Abhijat Joshi, and jointly produced by Hirani and Vidhu Vinod Chopra under the banners Rajkumar Hirani Films and Vinod Chopra Films respectively.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg"
+		},
+		{
+			"id": 56,
+			"Video_Id": "erjxRyx8gfY",
+			"Movie_name": "Agneepath",
+			"Description": "Agneepath is a 2012 Indian Hindi-language action drama film produced by Hiroo Yash Johar and Karan Johar under Dharma Productions and directed by the latter's former assistant, Karan Malhotra, in his directorial debut.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/0/08/Agneepath_poster.jpg"
+		},
+		{
+			"id": 57,
+			"Video_Id": "XLM3T953tvc",
+			"Movie_name": "Krrish",
+			"Description": "Krrish is a 2006 Indian Hindi-language superhero film directed and produced by Rakesh Roshan. It stars Hrithik Roshan and Priyanka Chopra while Naseeruddin Shah, Rekha, Manini Mishra, Archana Puran Singh and Sharat Saxena feature in supporting roles.",
+			"Movieimg": "https://image.songsuno.com/movie-images/original/movie/krrish/krrish-poster.jpg"
+		},
+		{
+			"id": 58,
+			"Video_Id": "LCiUlIm5pIA",
+			"Movie_name": "Bang Bang",
+			"Description": "Bang Bang! is a 2014 Indian Hindi-language action comedy film directed by Siddharth Anand and written by Abbas Tyrewala, Sujoy Ghosh and Suresh Nair.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjJjN2IyMGYtNzYwNS00YzFhLTg2N2MtMmZhNjFkNmUyYmI0XkEyXkFqcGdeQXVyNDkxMzY0Mjk@._V1_.jpg"
+		},
+		{
+			"id": 59,
+			"Video_Id": "hXk3pP0q-MU",
+			"Movie_name": "Khiladi 786",
+			"Description": "Khiladi 786 is a 2012 Indian Hindi-language action comedy film directed by Ashish R Mohan, featuring Akshay Kumar in the title role alongside Asin playing the female lead.",
+			"Movieimg": "https://m.media-amazon.com/images/I/91EoohmA7VL._SL1500_.jpg"
+		},
+		{
+			"id": 60,
+			"Video_Id": "m_lVr6HKyBI",
+			"Movie_name": "Stree",
+			"Description": "Stree is a 2018 Indian Hindi-language comedy horror film directed by debutant Amar Kaushik in his directorial debut and produced by Dinesh Vijan and Raj & D.K.",
+			"Movieimg": "https://static.toiimg.com/thumb/msid-62470299,width-219,height-317,imgsize-132262/62470299.jpg"
+		},
+		{
+			"id": 61,
+			"Video_Id": "hMy4TCZbeQg",
+			"Movie_name": "Phantom",
+			"Description": "Phantom is a 2015 Indian Hindi-language action thriller film directed by Kabir Khan, produced by Sajid Nadiadwala and Siddharth Roy Kapur, and starring Saif Ali Khan and Katrina Kaif in leading roles.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTk5NDE2NDUxM15BMl5BanBnXkFtZTgwOTA3NzI1NjE@._V1_.jpg"
+		},
+		{
+			"id": 62,
+			"Video_Id": "U1vRmu8zMG8",
+			"Movie_name": "Mohenjo Daro",
+			"Description": "Mohenjo Daro is a 2016 Indian Hindi-language period action-adventure film written and directed by Ashutosh Gowariker.",
+			"Movieimg": "https://occ-0-299-300.1.nflxso.net/art/70d0d/0dacc725ac54996a858148dafa7253e635770d0d.jpg"
+		},
+		{
+			"id": 63,
+			"Video_Id": "vBBhGe_h57s",
+			"Movie_name": "Tees Mar Khan",
+			"Description": "Tees Maar Khan is a 2010 Indian Hindi-language heist comedy film directed by Farah Khan and produced by Twinkle Khanna, Shirish Kunder and Ronnie Screwvala.",
+			"Movieimg": "https://i.pinimg.com/474x/3f/4f/ac/3f4facae6233d173f9d3316af52c1039--bollywood-posters-cinema.jpg"
+		},
+		{
+			"id": 64,
+			"Video_Id": "G0JWw7OKbGA",
+			"Movie_name": "Kick",
+			"Description": "Kick is a 2014 Indian Hindi-language action film produced and directed by Sajid Nadiadwala, and starring Salman Khan, Jacqueline Fernandez, Randeep Hooda and Nawazuddin Siddiqui.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_.jpg"
+		},
+		{
+			"id": 65,
+			"Video_Id": "Nt3U3sZn5kw",
+			"Movie_name": "Humshakal",
+			"Description": "Humshakals is a 2014 Indian Hindi-language comedy film directed by Sajid Khan and produced by Vashu Bhagnani.",
+			"Movieimg": "https://images.static-bluray.com/movies/covers/113847_front.jpg?t=1412877441"
+		},
+		{
+			"id": 66,
+			"Video_Id": "vCQ3ZrE8DKw",
+			"Movie_name": "Singh Is Bliing",
+			"Description": "Singh Is Bliing is a 2015 Indian Hindi-language action comedy film directed by Prabhu Deva and produced by Ashvini Yardi and Jayantilal Gada under the banners of Grazing Goat Pictures and Pen India Limited.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTM5ZjM3NDEtYTJkMi00YzM0LWI2NDAtMzM4MmRmMjA0NDExXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg"
+		},
+		{
+			"id": 67,
+			"Video_Id": "ANRkvosCkKI",
+			"Movie_name": "Sarkar",
+			"Description": "Sarkar is a 2005 Indian Hindi-language political crime thriller film directed by Ram Gopal Varma. The film stars Amitabh Bachchan in the title role alongside Abhishek Bachchan as his younger son, along with Kay Kay Menon, Katrina Kaif, Tanisha Mukherjee, Supriya Pathak, Kota Srinivasa Rao, and Anupam Kher.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTYwNGU2YzQtMDRjNS00MjlmLTk1MDEtMjBmYWQ3ZjY0NWRjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg"
+		},
+		{
+			"id": 68,
+			"Video_Id": "HsNj98nNqIs",
+			"Movie_name": "Queen",
+			"Description": "Queen is a 2013 Indian Hindi-language comedy-drama film directed by Vikas Bahl and produced by Anurag Kashyap, Vikramaditya Motwane, and Madhu Mantena.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQ1ODUxMzA1Nl5BMl5BanBnXkFtZTgwNDk0NjMyMTE@._V1_.jpg"
+		},
+		{
+			"id": 69,
+			"Video_Id": "W-HvUW5Mug4",
+			"Movie_name": "Chup Chup Ke",
+			"Description": "Chup Chup Ke is a 2006 Indian Hindi-language comedy drama film directed by Priyadarshan. Originally titled as Khatta Meetha, the story of the film is adapted from the Malayalam film Punjabi House (1998), with a tagline of Love meets confusion meets love.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTg3MTMzNjUwOF5BMl5BanBnXkFtZTcwODgxODMzMQ@@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 70,
+			"Video_Id": "agxvAk2Ll-w",
+			"Movie_name": "No Problem",
+			"Description": "No Problem is a 2010 Indian Hindi-language action comedy film directed by Anees Bazmee and produced by Rajat Rawail and Anil Kapoor.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/f1/No_problem_poster.jpg"
+		},
+		{
+			"id": 71,
+			"Video_Id": "cNIgDmSnPeY",
+			"Movie_name": "Taarzan The Wonder Car",
+			"Description": "Taarzan: The Wonder Car is a 2004 Indian Hindi-language supernatural action thriller film directed by Abbas Burmawalla and Mustan Burmawalla.",
+			"Movieimg": "https://m.media-amazon.com/images/I/51y8uHyhEKL.jpg"
+		},
+		{
+			"id": 72,
+			"Video_Id": "AOUqjYgFaeg",
+			"Movie_name": "Luck",
+			"Description": "Luck is a 2009 Indian Hindi-language action-thriller film written and directed by Soham Shah and produced by Dhilin Mehta under Shree Ashtavinayak Cine Vision Ltd.",
+			"Movieimg": "https://i2.cinestaan.com/image-bank/1500-1500/73001-74000/73842.jpg"
+		},
+		{
+			"id": 73,
+			"Video_Id": "G9ZV4NZ5Ulw",
+			"Movie_name": "Tezz",
+			"Description": "Tezz is a 2012 Indian action thriller film directed by Priyadarshan. It stars Ajay Devgn, Anil Kapoor, Kangana Ranaut, Zayed Khan, Sameera Reddy and Boman Irani.",
+			"Movieimg": "https://images004-a.erosnow.com/movie/1/1004671/img768851/6096484/1004671_6096484_11.jpg"
+		},
+		{
+			"id": 74,
+			"Video_Id": "69t0c9zpETc",
+			"Movie_name": "Lagaan",
+			"Description": "Lagaan released internationally as Lagaan: Once Upon a Time in India, is a 2001 Indian Hindi-language epic musical sports film written and directed by Ashutosh Gowariker.",
+			"Movieimg": "https://m.media-amazon.com/images/I/91ZWAeRiIVS._SY550_.jpg"
+		},
+		{
+			"id": 75,
+			"Video_Id": "y3pgey2rhkw",
+			"Movie_name": "Jigariyaa",
+			"Description": "Jigariyaa is a Bollywood romantic film.The film is directed by Raj Purohit introducing Harshvardhan Deo and Cherry Mardia in lead roles.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjIyNzkzMTQxN15BMl5BanBnXkFtZTgwMDQ3ODE5MjE@._V1_.jpg"
+		},
+		{
+			"id": 76,
+			"Video_Id": "53mSSI9qlHc",
+			"Movie_name": "Aashiqui 2",
+			"Description": "Aashiqui 2 is a 2013 Indian Hindi-language romantic musical drama film directed by Mohit Suri and produced by Mukesh Bhatt.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/4f/Aashiqui_2.jpeg"
+		},
+		{
+			"id": 77,
+			"Video_Id": "k_I1r8qEht0",
+			"Movie_name": "Rowdy Rathore",
+			"Description": "A remake of the 2006 Telugu blockbuster Vikramarkudu directed by S. S. Rajamouli, based on an original story written by K. V. Vijayendra Prasad, it stars Akshay Kumar in double roles of a brave police officer and thief.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZThjNDMxYWEtNTU4Zi00NjgzLWI3YTMtNjc1ZGE3YTAyZDM4XkEyXkFqcGdeQXVyNTg3MzExNTA@._V1_.jpg"
+		},
+		{
+			"id": 78,
+			"Video_Id": "sMSq4l9RsOM",
+			"Movie_name": "A Wednesday",
+			"Description": "A Wednesday! is a 2008 Indian Hindi-language thriller film written and directed by Neeraj Pandey and produced by Ronnie Screwvala, Anjum Rizvi and Shital Bhatia under UTV Motion Pictures and Friday Filmworks.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTcwMzdiMWItMjZlOS00MzAzLTg5OTItNTA4OGYyMjBhMmRiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+		},
+		{
+			"id": 79,
+			"Video_Id": "iWWpRRJOII4",
+			"Movie_name": "Once Upon a Time in Mumbai Dobaara",
+			"Description": "Once Upon a Time in Mumbai Dobaara! is a 2013 Indian Hindi-language gangster film directed by Milan Luthria and produced by Ekta Kapoor and Shobha Kapoor. ",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWE0ZWNhOTYtMDEyYS00OWE4LWIwNmEtZjdmN2Y2ODY2NGI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+		},
+		{
+			"id": 80,
+			"Video_Id": "My5L3qLhewg",
+			"Movie_name": "Khatta Meetha",
+			"Description": "Khatta Meetha is a 2010 Indian Hindi-language political satire comedy film written and directed by Priyadarshan and produced by Dhilin Mehta and Twinkle Khanna under Shree Ashtavinayak Cine Vision Limited and Hari Om Entertainment.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/0/09/Khattameetha_movie.jpg"
+		},
+		{
+			"id": 81,
+			"Video_Id": "h45eFlTehd4",
+			"Movie_name": "Akira",
+			"Description": "Akira is a 2016 Indian Hindi-language action crime thriller film co-written, produced and directed by AR Murugadoss. It is a remake of the 2011 Tamil-language film Mouna Guru,and features Konkana Sen Sharma, Sonakshi Sinha and Anurag Kashyap in the lead roles.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTE2MWI4MDctMjFlNi00OTUyLTkyMGItYTk3MThkMDFmOWE1XkEyXkFqcGdeQXVyNjE5MTgwOTU@._V1_.jpg"
+		},
+		{
+			"id": 82,
+			"Video_Id": "CJ4vVlvHe00",
+			"Movie_name": "3 Idiots",
+			"Description": "3 Idiots is a 2009 Indian Hindi-language coming-of-age comedy-drama film written, edited and directed by Rajkumar Hirani and co-written by Abhijat Joshi, with producer Vidhu Vinod Chopra acting as a screenplay associate.",
+			"Movieimg": "https://d1or4efq32i6bx.cloudfront.net/general_content/PGT_1423_1.jpg"
+		},
+		{
+			"id": 83,
+			"Video_Id": "6GDyEn1mjBw",
+			"Movie_name": "Yeh Jawaani Hai Deewani",
+			"Description": "Yeh Jawaani Hai Deewanim is a 2013 Indian Hindi-language coming-of-age romantic comedy film, directed by Ayan Mukerji, written by Mukerji and Hussain Dalal, and produced by Karan Johar.",
+			"Movieimg": "https://www.bollywoodfever.co.in/wp-content/uploads/2021/05/Yeh-Jawaani-Hai-Deewani-Box-Office.jpg"
+		},
+		{
+			"id": 84,
+			"Video_Id": "7dvEHOo6U0Y",
+			"Movie_name": "Banjo",
+			"Description": "Banjo is a 2016 Indian Hindi-language musical action drama film , directed by Ravi Jadhav and produced by Krishika Lulla under the banner of Eros International.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/d/d4/Banjo_%282016_film%29.jpg"
+		},
+		{
+			"id": 85,
+			"Video_Id": "a17YqU73tLs",
+			"Movie_name": "Aitraaz",
+			"Description": "Aitraaz is a 2004 Indian Hindi-language romantic thriller film directed by Abbas–Mustan and produced by Subhash Ghai. It stars Akshay Kumar, Priyanka Chopra, Kareena Kapoor, Amrish Puri, Annu Kapoor and Paresh Rawal.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Aitraaz.jpg/220px-Aitraaz.jpg"
+		},
+		{
+			"id": 86,
+			"Video_Id": "kQ4AikYy1BE",
+			"Movie_name": "Toonpur Ka Super Hero",
+			"Description": "Toonpur Ka Superrhero is a 2010 Indian live-action animated action comedy film written by Raagii Bhatnagar and directed by Kireet Khurana. The film features Ajay Devgn, Kajol, Sanjay Mishra, Tanuja and Mukesh Tiwari in lead roles.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/7/71/Toonpur.jpg"
+		},
+		{
+			"id": 87,
+			"Video_Id": "50Rqcmj12iI",
+			"Movie_name": "Housefull 2",
+			"Description": "Housefull 2 is an 2012 Indian Hindi-language comedy film directed by Sajid Khan and produced by Sajid Nadiadwala, being an uncredited remake of the Malayalam film Mattupetti Machan and the second part of Housefull film franchise.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Housefull_2.jpg/220px-Housefull_2.jpg"
+		},
+		{
+			"id": 88,
+			"Video_Id": "RBQamFajUSU",
+			"Movie_name": "Go Goa Gone",
+			"Description": "Go Goa Gone is a 2013 Indian Hindi-language zombie action comedy film directed by Raj and D.K. The film features Saif Ali Khan, Kunal Khemu, Vir Das, Anand Tiwari and Puja Gupta.",
+			"Movieimg": "https://m.media-amazon.com/images/I/51OsU1oKElL.jpg"
+		},
+		{
+			"id": 89,
+			"Video_Id": "8G7g1BvyCj0",
+			"Movie_name": "Tevar",
+			"Description": "Tevar is a 2015 Indian Hindi-language action film directed by debutante Amit Ravindernath Sharma and produced by Boney Kapoor, Sanjay Kapoor, Sunil Lulla, Naresh Agarwal and Sunil Manchanda",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Tevar_Official_Poster.jpg/220px-Tevar_Official_Poster.jpg"
+		},
+		{
+			"id": 90,
+			"Video_Id": "SodVhwB6Sz8",
+			"Movie_name": "Golmaal - Fun Unlimited",
+			"Description": "Four good-for-nothing con-men force themselves into a blind couple's home, pretending that one of them is the couple's grandson from America.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmE3YmNiM2YtM2MxMi00ZDhmLTk1ZTQtODdjOWY4YjVkYThmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 91,
+			"Video_Id": "Dn26dn7e8Q0",
+			"Movie_name": "Heyy Babyy",
+			"Description": "Heyy Babyy is a 2007 Indian Hindi-language comedy film starring Akshay Kumar, Fardeen Khan, Ritesh Deshmukh, Vidya Balan, and Boman Irani.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/a/a1/Heyybabyyposter.jpg"
+		},
+		{
+			"id": 92,
+			"Video_Id": "QowFdS25XnE",
+			"Movie_name": "Kaabil",
+			"Description": "Kaabil is a 2017 Indian Hindi-language romantic action thriller film directed by Sanjay Gupta, written by Vijay Kumar Mishra, produced by Rakesh Roshan under his banner FilmKraft Productions.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWJkMjJiNzMtNzhmOC00MjQ3LTg5MmEtMTRkMTg1ZjQ2ZmM1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkxMzY0Mjk@._V1_.jpg"
+		},
+		{
+			"id": 93,
+			"Video_Id": "sRlZ4HsVP1w",
+			"Movie_name": "Baankey ki Crazy Baraat",
+			"Description": "The film is based on the scam practiced by some families in Uttar Pradesh, where the boys families deceive the girls families, in case the boy is not good looking or has a dosh ( fault ) in his kundali.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/f/f0/Baankey_Ki_Crazy_Baraat_poster.jpg"
+		},
+		{
+			"id": 94,
+			"Video_Id": "T_Euf6_2gIA",
+			"Movie_name": "Jannat 2",
+			"Description": "Jannat 2 is an Indian 2012 Hindi-language crime thriller film directed by Kunal Deshmukh and distributed by Fox Star Studios.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/6/63/Jannat_2_official_poster.jpg"
+		},
+		{
+			"id": 95,
+			"Video_Id": "EZOiQ29xNbk",
+			"Movie_name": "Players",
+			"Description": "Players is a 2012 Indian Hindi-language action thriller film directed by the duo Abbas–Mustan and jointly produced by Viacom 18 Motion Pictures and Burmawala Partners.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTQyNmQyYmYtMTU0NS00MGRiLTlhYTEtYmZiZDNkYTY4ZDQ4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+		},
+		{
+			"id": 96,
+			"Video_Id": "uQ7CqjvueAU",
+			"Movie_name": "Kyaa Super Kool Hain Hum",
+			"Description": "Kyaa Super Kool Hain Hum is a 2012 Indian Hindi-language adult comedy film written and directed by Sachin Yardi. Produced by Ekta Kapoor, it is the second in Kyaa Kool Hain Hum series and again stars Riteish Deshmukh and Tusshar Kapoor.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kyaa-super-kool-hain-hum-et00007982-24-03-2017-16-47-38.jpg"
+		},
+		{
+			"id": 97,
+			"Video_Id": "5zYC-Jp2Dx0",
+			"Movie_name": "Simmba",
+			"Description": "Simmba is a 2018 Indian Hindi-language action film directed by Rohit Shetty from a script written by Yunus Sajawal and Sajid-Farhad. The third installment of Shetty's Cop Universe film franchise.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWIzNGU3ZWEtNTRjOC00OTYzLWFlZmUtMjE5NmMxMmE0MGIwXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
+		},
+		{
+			"id": 98,
+			"Video_Id": "zWNkw7OTGp8",
+			"Movie_name": "Singham Returns",
+			"Description": "Singham Returns is a 2014 Indian Hindi-language action film written and directed by Rohit Shetty as the second installment of his Cop Universe.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGQyZjhlZDYtY2E0Mi00ZDAyLWExNzctYWZkNDlkZmI3MWFlXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_.jpg"
+		},
+		{
+			"id": 99,
+			"Video_Id": "oEvHQe6GHmg",
+			"Movie_name": "Judwaa 2",
+			"Description": "The film stars Varun Dhawan playing twins Raja and Prem opposite Jacqueline Fernandez and Taapsee Pannu. Produced by Nadiadwala Grandson Entertainment, Judwaa 2 was released on 29 September 2017.",
+			"Movieimg": "https://cdn.bollywoodmdb.com/movies/largethumb/2010/judwaa-2/judwaa-2-poster-6.jpg"
+		},
+		{
+			"id": 100,
+			"Video_Id": "XaXKh-s9zws",
+			"Movie_name": "Golmaal 3",
+			"Description": "Golmaal 3 is a 2010 Indian Hindi-language action comedy film directed by Rohit Shetty. A sequel to the 2008 film Golmaal Returns and the third film in the Golmaal series.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTllZDJhMTAtMjhmZi00MzBjLTljMmQtMmNlYTAwYmY0Y2Q0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
 		}
 	],
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "qcMyNrE__RM",
+			"Video_Id": "Y6ZKXqM7HNQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "3 Ekka",
-			"Movieimg":"https://i.ytimg.com/vi/qcMyNrE__RM/maxresdefault.jpg",
+			"Movie_name": "OMG2",
+			"Movieimg":"https://i.ytimg.com/vi/Y6ZKXqM7HNQ/maxresdefault.jpg",
             "Description": "",
-            "Language": "Gujarati"
+            "Language": "Hindi"
 		},
 		{
 			"id": 2,
-			"Video_Id": "_FgoHstyluk",
+			"Video_Id": "dlC1tNsr-n8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Bachubhai",
-			"Movieimg":"https://i.ytimg.com/vi/_FgoHstyluk/maxresdefault.jpg",
+			"Movie_name": "DREAM GIRL 2",
+			"Movieimg":"https://i.ytimg.com/vi/dlC1tNsr-n8/maxresdefault.jpg",
             "Description": "",
-            "Language": "Gujarati"
+            "Language": "Hindi"
 		},
 		{
 			"id": 3,
-			"Video_Id": "5-lMOnKjZTI",
+			"Video_Id": "6mdxy3zohEk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Var Padharavo Saavdhan",
-			"Movieimg":"https://i.ytimg.com/vi/5-lMOnKjZTI/maxresdefault.jpg",
+			"Movie_name": "Rocky Aur Rani Kii Prem Kahaani",
+			"Movieimg":"https://i.ytimg.com/vi/6mdxy3zohEk/maxresdefault.jpg",
             "Description": "",
-            "Language": "Gujarati"
+            "Language": "Hindi"
 		},
 		{
 			"id": 4,
-			"Video_Id": "6G2-Qn6xPmo",
+			"Video_Id": "9tbOxIbVsxQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Char Fera Nu Chakdol",
-			"Movieimg":"https://i.ytimg.com/vi/6G2-Qn6xPmo/maxresdefault.jpg",
+			"Movie_name": "Bawaal",
+			"Movieimg":"https://i.ytimg.com/vi/9tbOxIbVsxQ/maxresdefault.jpg",
             "Description": "",
-            "Language": "Gujarati"
+            "Language": "Hindi"
 		},
 		{
 			"id": 5,
-			"Video_Id": "-yuSHaSGy1I",
+			"Video_Id": "HEXTEC-xqWA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Tron Ekka",
-			"Movieimg":"https://i.ytimg.com/vi/-yuSHaSGy1I/maxresdefault.jpg",
+			"Movie_name": "Akelli",
+			"Movieimg":"https://i.ytimg.com/vi/HEXTEC-xqWA/maxresdefault.jpg",
             "Description": "",
-            "Language": "Gujarati"
-		},
-		{
-			"id": 6,
-			"Video_Id": "hHyeK3Cu6ag",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Gulaam Chor",
-			"Movieimg":"https://i.ytimg.com/vi/hHyeK3Cu6ag/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Gujarati"
-		},
-		{
-			"id": 7,
-			"Video_Id": "nPUmI-MV0aQ",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Anokhee",
-			"Movieimg":"https://i.ytimg.com/vi/nPUmI-MV0aQ/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Gujarati"
-		},		
-		{
-			"id": 8,
-			"Video_Id": "x2A7qmuaE5s",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "FULEKU",
-			"Movieimg":"https://i.ytimg.com/vi/x2A7qmuaE5s/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Gujarati"
+            "Language": "Hindi"
 		}
 	]
   }
