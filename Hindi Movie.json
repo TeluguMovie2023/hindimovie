@@ -433,7 +433,7 @@
 			"Video_Id": "U1vRmu8zMG8",
 			"Movie_name": "Mohenjo Daro",
 			"Description": "Mohenjo Daro is a 2016 Indian Hindi-language period action-adventure film written and directed by Ashutosh Gowariker.",
-			"Movieimg": "https://occ-0-299-300.1.nflxso.net/art/70d0d/0dacc725ac54996a858148dafa7253e635770d0d.jpg"
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWZiZGFiYjMtMmJhYS00ZTMzLThlNGQtYjVhMjY0MjMwZjVjXkEyXkFqcGdeQXVyNTM3NDI3MzQ@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 63,
@@ -689,17 +689,17 @@
 		},
 		{
 			"id": 99,
-			"Video_Id": "oEvHQe6GHmg",
-			"Movie_name": "Judwaa 2",
-			"Description": "The film stars Varun Dhawan playing twins Raja and Prem opposite Jacqueline Fernandez and Taapsee Pannu. Produced by Nadiadwala Grandson Entertainment, Judwaa 2 was released on 29 September 2017.",
-			"Movieimg": "https://cdn.bollywoodmdb.com/movies/largethumb/2010/judwaa-2/judwaa-2-poster-6.jpg"
-		},
-		{
-			"id": 100,
 			"Video_Id": "XaXKh-s9zws",
 			"Movie_name": "Golmaal 3",
 			"Description": "Golmaal 3 is a 2010 Indian Hindi-language action comedy film directed by Rohit Shetty. A sequel to the 2008 film Golmaal Returns and the third film in the Golmaal series.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTllZDJhMTAtMjhmZi00MzBjLTljMmQtMmNlYTAwYmY0Y2Q0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+		},
+		{
+			"id": 100,
+			"Video_Id": "gTnB6H-NQWk",
+			"Movie_name": "Kabir Singh",
+			"Description": "Kabir Singh is a 2019 Indian Hindi-language romantic drama film written and directed by Sandeep Reddy Vanga and jointly produced by Bhushan Kumar and Krishan Kumar under T-Series Films and Murad Khetani and Ashwin Varde under Cine1 Studios.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTVjMjExNWEtOWFiNS00ZTE2LWI0ODMtZTFlNDZiZWQ4MWVjXkEyXkFqcGdeQXVyNjcyNjMzMjQ@._V1_.jpg"
 		}
 	],
 	"MovieSlider":[
