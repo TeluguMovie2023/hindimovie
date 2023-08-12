@@ -705,6 +705,16 @@
 	"MovieSlider":[
 		{
 			"id": 1,
+			"Video_Id": "vhwr4vc_GY0",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Gadar2",
+			"Movieimg":"https://i.ytimg.com/vi/vhwr4vc_GY0/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 2,
 			"Video_Id": "Y6ZKXqM7HNQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -714,7 +724,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"Video_Id": "dlC1tNsr-n8",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -724,7 +734,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"Video_Id": "6mdxy3zohEk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -734,7 +744,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"Video_Id": "9tbOxIbVsxQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -744,7 +754,7 @@
             "Language": "Hindi"
 		},
 		{
-			"id": 5,
+			"id": 6,
 			"Video_Id": "HEXTEC-xqWA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
